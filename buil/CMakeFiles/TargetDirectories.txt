@@ -1,0 +1,11 @@
+/mnt/c/Users/riosv/Documents/proyecto3/buil/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/CMakeFiles/edit_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/CMakeFiles/superficie.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/CMakeFiles/edit_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/glad/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/glad/CMakeFiles/edit_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/glad/CMakeFiles/glad.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/stb_image/CMakeFiles/edit_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/stb_image/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/riosv/Documents/proyecto3/buil/external/stb_image/CMakeFiles/stb_image.dir
